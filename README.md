@@ -1,7 +1,7 @@
 ### Hi there, I'm Prashant - aka [er-vprashant] 👋
 
 
-## I'm a Husband, Father, Developer, and Teacher!
+## I'm an Mobile Application Developer|| AR/VR Developer!
 
 -🔭 I’m currently working @ Cargill!
 -🌱 I’m currently learning everything 🤣
@@ -44,14 +44,7 @@
 
 ---
 
-
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="Prashant's Github Stats" src="https://github-readme-stats.er-vprashant.vercel.app/api?username=er-vprashant&show_icons=true&hide_border=true" />
-
-</details>
-
+[webdevplaylist]: https://youtube.com/cool007prashant
 [twitter]: https://twitter.com/er_vprashant
 [youtube]: https://youtube.com/cool007prashant
 [instagram]: https://instagram.com/er.vprashant
