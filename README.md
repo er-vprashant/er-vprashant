@@ -44,6 +44,9 @@
 
 ---
 
+[website]: https://www.linkedin.com/in/er-vprashant/
+[cssplaylist]: https://youtube.com/cool007prashant
+[reactplaylist]: https://youtube.com/cool007prashant
 [webdevplaylist]: https://youtube.com/cool007prashant
 [twitter]: https://twitter.com/er_vprashant
 [youtube]: https://youtube.com/cool007prashant
