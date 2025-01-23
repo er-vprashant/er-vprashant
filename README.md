@@ -3,7 +3,7 @@
 
 ## I'm an Mobile Application Developer|| AR/VR Developer!
 
-- 🔭 I’m currently working @ Cargill!
+- 🔭 I’m currently working on Android !!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate on Open Source projects
 - 🥅 2020 Goals: Contribute more to Open Source projects
