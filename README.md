@@ -9,9 +9,9 @@
 
 ### Connect with me:
 
-[<img width="22px" src="https://cdn.simpleicons.org/googlechrome/white" />][website]
-[<img width="22px" src="https://cdn.simpleicons.org/twitter/white" />][twitter]
-[<img width="22px" src="https://cdn.simpleicons.org/linkedin/white" />][linkedin]
+[<img width="22px" src="[https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/googlechrome.svg" fill="white" />][website]
+[<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/x.svg" fill="white" />][twitter]
+[<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" fill="white" />][linkedin]
 
 
 <br />
